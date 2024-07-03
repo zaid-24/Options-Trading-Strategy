@@ -35,5 +35,3 @@ This project focuses on developing and implementing advanced options trading str
 ## Contributors
 Zaid
 
-## License
-[Choose an appropriate license for your project]
